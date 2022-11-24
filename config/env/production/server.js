@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env("RENDER_EXTERNAL_URL"),
+  url: env("https://strapi-v1ph.onrender.com"),
 });
