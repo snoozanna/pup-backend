@@ -33,4 +33,4 @@ services:
 databases:
   # - name: strapi
   - name: pop-up-playhouse-db
-    plan: starter
+    plan: free
