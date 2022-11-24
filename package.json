@@ -3,10 +3,13 @@
     "@strapi/plugin-graphql": "^4.0.0",
     "@strapi/plugin-i18n": "4.5.1",
     "@strapi/plugin-users-permissions": "4.5.1",
+    "@strapi/provider-upload-cloudinary": "^4.5.2",
     "@strapi/strapi": "4.5.1",
     "better-sqlite3": "7.4.6",
+    "global": "^4.4.0",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
+    "node": "^19.1.0",
     "pg": "^8.8.0",
     "strapi-provider-upload-cloudinary": "^3.6.11"
   },
