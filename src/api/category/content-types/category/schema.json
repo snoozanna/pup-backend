@@ -29,9 +29,9 @@
     },
     "pieces": {
       "type": "relation",
-      "relation": "manyToMany",
+      "relation": "oneToMany",
       "target": "api::piece.piece",
-      "mappedBy": "categories"
+      "mappedBy": "category"
     }
   }
 }
