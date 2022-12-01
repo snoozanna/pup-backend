@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "whats_ons",
+  "info": {
+    "singularName": "whats-on",
+    "pluralName": "whats-ons",
+    "displayName": "Whats On"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
