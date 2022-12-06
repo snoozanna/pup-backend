@@ -27,7 +27,7 @@
     "url": {
       "type": "string"
     },
-    "description": {
+    "fullDescription": {
       "type": "richtext"
     },
     "credits": {
@@ -53,6 +53,12 @@
         "videos",
         "audios"
       ]
+    },
+    "revealText": {
+      "type": "richtext"
+    },
+    "oneline": {
+      "type": "string"
     }
   }
 }
