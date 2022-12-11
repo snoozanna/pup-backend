@@ -15,14 +15,15 @@
     "name": {
       "type": "string"
     },
-    "slug": {
-      "type": "string"
-    },
     "pieces": {
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::piece.piece",
       "inversedBy": "tags"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
     }
   }
 }
