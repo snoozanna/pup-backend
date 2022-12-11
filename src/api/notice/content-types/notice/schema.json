@@ -53,6 +53,10 @@
         "b2",
         "b3"
       ]
+    },
+    "uid": {
+      "type": "uid",
+      "required": true
     }
   }
 }
