@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "whatsons",
+  "collectionName": "zoombars",
   "info": {
-    "singularName": "whatson",
-    "pluralName": "whatsons",
-    "displayName": "WhatsOn"
+    "singularName": "zoombar",
+    "pluralName": "zoombars",
+    "displayName": "Zoombar"
   },
   "options": {
     "draftAndPublish": true

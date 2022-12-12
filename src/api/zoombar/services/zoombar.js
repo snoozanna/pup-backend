@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * whatson service
+ * zoombar service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::whatson.whatson');
+module.exports = createCoreService('api::zoombar.zoombar');

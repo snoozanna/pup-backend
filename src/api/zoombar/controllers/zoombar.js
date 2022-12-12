@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * whatson controller
+ * zoombar controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::whatson.whatson');
+module.exports = createCoreController('api::zoombar.zoombar');
