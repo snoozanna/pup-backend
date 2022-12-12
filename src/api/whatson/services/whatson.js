@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * whats-on service
+ * whatson service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::whats-on.whats-on');
+module.exports = createCoreService('api::whatson.whatson');

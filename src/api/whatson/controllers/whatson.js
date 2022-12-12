@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * whats-on controller
+ * whatson controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::whats-on.whats-on');
+module.exports = createCoreController('api::whatson.whatson');

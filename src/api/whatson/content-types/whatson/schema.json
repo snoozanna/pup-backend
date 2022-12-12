@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "whats_ons",
+  "collectionName": "whatsons",
   "info": {
-    "singularName": "whats-on",
-    "pluralName": "whats-ons",
-    "displayName": "Whats On"
+    "singularName": "whatson",
+    "pluralName": "whatsons",
+    "displayName": "WhatsOn"
   },
   "options": {
     "draftAndPublish": true
