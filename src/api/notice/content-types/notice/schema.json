@@ -27,7 +27,8 @@
         "postit",
         "circle",
         "polaroid"
-      ]
+      ],
+      "required": true
     },
     "image": {
       "type": "media",
