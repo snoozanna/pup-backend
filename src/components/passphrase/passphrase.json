@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_passphrase_passphrases",
+  "info": {
+    "displayName": "passphrase",
+    "icon": "feather-alt"
+  },
+  "options": {},
+  "attributes": {
+    "passphrase": {
+      "type": "password"
+    }
+  }
+}
