@@ -2,11 +2,12 @@
   "collectionName": "components_passphrase_passphrases",
   "info": {
     "displayName": "passphrase",
-    "icon": "feather-alt"
+    "icon": "feather-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "passphrase": {
+    "phrase": {
       "type": "password"
     }
   }
