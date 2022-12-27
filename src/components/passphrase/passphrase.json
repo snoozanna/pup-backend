@@ -7,10 +7,10 @@
   },
   "options": {},
   "attributes": {
-    "piecephrase": {
+    "phrase": {
       "type": "string"
     },
-    "piecephraseprompt": {
+    "phraseprompt": {
       "type": "string"
     }
   }
