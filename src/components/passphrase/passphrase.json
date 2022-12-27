@@ -9,6 +9,9 @@
   "attributes": {
     "phrase": {
       "type": "string"
+    },
+    "phraseprompt": {
+      "type": "string"
     }
   }
 }
