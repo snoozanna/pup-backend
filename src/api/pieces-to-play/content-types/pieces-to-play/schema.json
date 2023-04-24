@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "pieces_to_plays",
+  "info": {
+    "singularName": "pieces-to-play",
+    "pluralName": "pieces-to-plays",
+    "displayName": "Pieces to Play"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "introCopy": {
+      "type": "richtext"
+    }
+  }
+}

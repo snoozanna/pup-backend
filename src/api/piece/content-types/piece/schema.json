@@ -34,12 +34,6 @@
     "credits": {
       "type": "string"
     },
-    "category": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::category.category",
-      "inversedBy": "pieces"
-    },
     "slug": {
       "type": "uid",
       "targetField": "title"
