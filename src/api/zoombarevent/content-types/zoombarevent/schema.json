@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "zoombarevents",
+  "info": {
+    "singularName": "zoombarevent",
+    "pluralName": "zoombarevents",
+    "displayName": "Zoombar Events"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    },
+    "copy": {
+      "type": "richtext"
+    },
+    "tagline": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "time": {
+      "type": "time"
+    },
+    "bookingLink": {
+      "type": "string"
+    }
+  }
+}
