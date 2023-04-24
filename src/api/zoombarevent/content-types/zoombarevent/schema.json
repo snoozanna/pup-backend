@@ -4,7 +4,8 @@
   "info": {
     "singularName": "zoombarevent",
     "pluralName": "zoombarevents",
-    "displayName": "Zoombar Events"
+    "displayName": "Zoombar Events",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -32,6 +33,16 @@
     },
     "bookingLink": {
       "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
