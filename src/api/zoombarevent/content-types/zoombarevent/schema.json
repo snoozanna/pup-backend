@@ -52,6 +52,9 @@
     },
     "location": {
       "type": "string"
+    },
+    "dateTime": {
+      "type": "richtext"
     }
   }
 }

@@ -36,12 +36,13 @@
     },
     "slug": {
       "type": "uid",
-      "targetField": "title"
+      "targetField": "title",
+      "required": true
     },
     "image": {
       "type": "media",
       "multiple": false,
-      "required": false,
+      "required": true,
       "allowedTypes": [
         "images",
         "files",
@@ -53,7 +54,8 @@
       "type": "richtext"
     },
     "oneline": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "tags": {
       "type": "relation",
