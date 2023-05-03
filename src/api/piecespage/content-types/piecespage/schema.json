@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "piecespages",
+  "info": {
+    "singularName": "piecespage",
+    "pluralName": "piecespages",
+    "displayName": "Pieces Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "introCopy": {
+      "type": "richtext"
+    }
+  }
+}

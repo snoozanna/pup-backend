@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "giftaidpages",
+  "info": {
+    "singularName": "giftaidpage",
+    "pluralName": "giftaidpages",
+    "displayName": "Gift Aid Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "introCopy": {
+      "type": "richtext"
+    }
+  }
+}
